@@ -15,11 +15,7 @@ Note that you do not need to solve the problem.
 
 * Contains a clear and simple restatement of the problem that:
   * Identifies the data
-    * A 62-square grid, square but for 2 opposing corners that are empty
   * Identifies the unknown
-    * Whether it's possible to place 31 2x1 tiles on the grid
   * Identifies the constraint
-    * Tiles can't overlap
-    * Every tile must be used
 * Identifies a plausible difficulty with the problem
 * Details 2 plausible approaches to solving the problem
